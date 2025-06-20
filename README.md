@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋 It's me Subashri
 
-<!--
-**subashri-e/Subashri-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Technology Engineering Student
+<img align="right" width="370" height="290" src=" ">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 Here's my [portfolio]( )
+- 🌱 I’m currently learning DSA and tech stacks
+- 👯 I’m looking to collaborate on ML/AI
+- 💬 Ask me about Tech
+- 📫 Social Presence :
+  <br/> [<img src=" "/> ( )
 - ⚡ Fun fact: ...
--->
+
+I code in 
+
+
+IDE and Tools I Use
+
