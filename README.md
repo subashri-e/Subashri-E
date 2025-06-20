@@ -1,36 +1,60 @@
 ## Hi 👋 It's me Subashri
+🚀 Web Developer | Tech Explorer 
 
-#🚀 Web Developer | Backend Developer | Tech Explorer 
+I’m an aspiring full-stack web developer with experience in building responsive frontend interfaces.  
+I enjoy building solutions that create real-world impact. Currently exploring MERN stack and AI integration in web apps. </br></br>
 
-I'm a passionate web developer with exposure in full-stack projects using Node.js, Express, MySQL.  
-I enjoy building solutions that create real-world impact. Currently exploring MERN stack and AI integration in web apps.
-
-<img align="right" width="370" height="290" src=" ">
+<img align="right" width="370" height="290" src="https://img.freepik.com/premium-vector/woman-programming-laptop-illustration_701961-3282.jpg">
 
 - 🎯 Currently mastering React.js and building AI-powered tools  
 - 🌱 I’m learning DSA and tech stacks  
 - 📘 Preparing for product-based company placements  
 - 👯 I’m looking to collaborate on ML/AI projects  
-- ⚡ Fun fact: I love turning real-life problems into digital solutions  
-
-📫 Reach me at : subashrielaango@gmail.com 
-  <br/>
-  🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-  🔗 [Portfolio](https://yourportfolio.com)
+- ⚡ Fun fact: I love turning real-life problems into digital solutions  </br></br>
 
 🧠 Coding Profiles
-  - 💻 [LeetCode](https://leetcode.com/your-username)
-  - 🏅 [HackerRank](https://www.hackerrank.com/your-username)
-  - 📘 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/your-username)
+  - 🏅 [HackerRank](https://www.hackerrank.com/profile/subashri_e)
+  - 💻 [LeetCode](https://leetcode.com/u/Subashri_09/)
+  - 📘 [GeeksforGeeks](https://www.geeksforgeeks.org/user/subashriu302/) </br> </br>
 
-  ![GitHub stats](https://githubreadmestats.vercel.app/apiusername=yourusername&show_icons=true&theme=default)
 
-I code in 
+
+Programming Languages : </br>
 <img width="50" height="50" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
 <img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
-<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/javascript-logo.png" alt="javascript-logo"/>
-<svg xmlns="http://www.w3.org/2000/svg" height="12" width="9" viewBox="0 0 384 512"><path fill="#f21818" d="M0 32l34.9 395.8L191.5 480l157.6-52.2L384 32H0zm308.2 127.9H124.4l4.1 49.4h175.6l-13.6 148.4-97.9 27v.3h-1.1l-98.7-27.3-6-75.8h47.7L138 320l53.5 14.5 53.7-14.5 6-62.2H84.3L71.5 112.2h241.1l-4.4 47.7z"/></svg>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
+</br>
+</br>
+Frontend : </br>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
+<img width="50" height="50" src="https://img.icons8.com/plasticine/100/tailwind_css.png" alt="tailwind_css"/>
+<img width="50" height="50" src="https://img.icons8.com/officel/80/react.png" alt="react"/>
+</br>
+</br>
+Backend and Database : </br>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
+<img width="50" height="50" src="https://img.icons8.com/color/48/vite.png" alt="vite"/>
+</br>
+</br>
+IDE and Tools I Use : </br>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
+<img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
+</br>
+</br>
 
 
-IDE and Tools I Use
+📫 Reach me at : <br/>  
+  🔗 subashrielango@gmail.com </br>
+  🔗 [LinkedIn](https://www.linkedin.com/in/subashri-e/) </br>
+  🔗 [Portfolio](https://subashri-portfolio.vercel.app/) </br></br>
 
+📄 [Download My Resume](https://drive.google.com/file/d/1KWn9s8Rr03AvxBrTRZyEd1ICfZh2vRvh/view?usp=sharing)
+
+
+  
