@@ -8,8 +8,7 @@ I enjoy building solutions that create real-world impact. Currently exploring ME
 
 - 🎯 Currently mastering React.js and building AI-powered tools  
 - 🌱 I’m learning DSA and tech stacks  
-- 📘 Preparing for product-based company placements  
-- 👯 I’m looking to collaborate on ML/AI projects  
+- 📘 Preparing for company placements    
 - ⚡ Fun fact: I love turning real-life problems into digital solutions  </br></br>
 
 🧠 Coding Profiles
